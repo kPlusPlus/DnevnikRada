@@ -1,0 +1,17 @@
+--- zaglavlje da ostaje isto i za druge nasljedne unose
+
+--- Slobodan    0 sati
+--- Bolovanje   8 sati
+--- Godišnji    8 sati
+--- Blagdan     8 sati (plaæeni)
+
+
+--- desni klik Disable
+
+--- Svaki kupac ima odreðeni rabat ali treba ostaviti moguænost promjene rabat.
+Potrebne su mi još dvije veze s kupcom: 1.Djelatnik-kupac i 2. Djelarnik koji je otpremio robu-kupac
+
+
+********
+*** kada se upisuje novi posao
+	treba se sakriti dolje kupaci i adresa sa podformom

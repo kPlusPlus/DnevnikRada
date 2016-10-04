@@ -1,0 +1,9 @@
+pitanja
+------------------------
+
+- pod PosaoVrsta redak ID = 22 pisalo je odmor
+  da li to može postati Godišnji odmor ?
+  (tako sam veæ uprogramirao)
+ 
+- da li radnik može biti pola dana na godišnjem
+  

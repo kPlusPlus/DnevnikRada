@@ -1,0 +1,17 @@
++++ da se vidi ime i prezime !!!
+      u selektu sam sjedinio u polje ImePrezime
+
+** Sastanak sadrži
+
+  Mjesto
+  Kupac
+  Prisutni
+  Dogovoreno
+  --- to samo stavi još na formu
+  
+  !!! MORA SVE BITI POPUNJENO !!!
+      red po red da se otvara
+      TIPKA Završi i onda tek snimi
+      
+      
+ /// PlayStation 3 --- kopiranje 
