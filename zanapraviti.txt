@@ -1,17 +1,17 @@
 +++ da se vidi ime i prezime !!!
       u selektu sam sjedinio u polje ImePrezime
 
-** Sastanak sadrûi
+** Sastanak sadr≈æi
 
   Mjesto
   Kupac
   Prisutni
   Dogovoreno
-  --- to samo stavi joö na formu
+  --- to samo stavi jo≈° na formu
   
   !!! MORA SVE BITI POPUNJENO !!!
       red po red da se otvara
-      TIPKA Zavröi i onda tek snimi
+      TIPKA Zavr≈°i i onda tek snimi
       
       
- /// PlayStation 3 --- kopiranje 
+ 
